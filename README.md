@@ -9,13 +9,10 @@
 - <b>Microsoft Azure</b>
   - [Setting Up Active Directory Using Azure VMs](https://github.com/timxtek/configure-ad4)
   - [Network Security Groups (NSGs) And Inspecting Network Protocols](https://github.com/timxtek/azure-network-protocols4)
+- <b>Virtual Private Network</b>
+  - [VPN Setup in Virtual Machine ](https://github.com/timxtek/Setting-UP-A-VPN)
+  
+<h2>📧Contact Me:</h2>
 
-<h2>🤳Connect with me:</h2>
-
-[<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/timtech369
-[instagram]: https://www.instagram.com/timtech369
 [linkedin]: https://linkedin.com/in/timtech369
