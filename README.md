@@ -1,8 +1,8 @@
 <h1>Hi, I'm Timothy, an <a href="https://linkedin.com/in/timtech369">IT Professional</a>☺</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>🖥️Information Technology Projects💻</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
+- <b>osTicket: Creating a Ticketing System for Help Desk</b>
   - [osTicket: Prerequisites And Installation](https://github.com/timxtek/osticket-prereqs4)
   - [osTicket: Post-Installation Configuration](https://github.com/timxtek/post-install-config4)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/timxtek/ticket-lifecycle4)
@@ -10,7 +10,7 @@
   - [Setting Up Active Directory Using Azure VMs](https://github.com/timxtek/configure-ad4)
   - [Network Security Groups (NSGs) And Inspecting Network Protocols](https://github.com/timxtek/azure-network-protocols4)
 - <b>Virtual Private Network</b>
-  - [VPN Setup in Virtual Machine ](https://github.com/timxtek/SETUP-VPN4)
+  - [VPN Setup in Virtual Machine ](https://github.com/timxtek/setup-vpn4)
   
 <h2>📧Contact Me:</h2>
 
