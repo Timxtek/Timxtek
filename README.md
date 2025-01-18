@@ -10,7 +10,7 @@
   - [Setting Up Active Directory Using Azure VMs](https://github.com/timxtek/configure-ad4)
   - [Network Security Groups (NSGs) And Inspecting Network Protocols](https://github.com/timxtek/azure-network-protocols4)
 - <b>Virtual Private Network</b>
-  - [VPN Setup in Virtual Machine ](https://github.com/timxtek/Setting-UP-A-VPN)
+  - [VPN Setup in Virtual Machine ](https://github.com/timxtek/SETUP-VPN4)
   
 <h2>📧Contact Me:</h2>
 
