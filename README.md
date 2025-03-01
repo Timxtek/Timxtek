@@ -15,10 +15,10 @@
 
 - <b>SOC Analyst Journey</b>
   - [Configuring A SIEM In MS Azure](https://github.com/timxtek/Configuring-siem4)
-  - [2]
-  - [3]
-  - [4]
-  - [5]
+  - [SOC]
+  - [SOC]
+  - [SOC]
+  - [SOC]
 
 <h2>📧Contact Me:</h2>
 
