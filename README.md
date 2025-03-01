@@ -10,11 +10,11 @@
   - [Setting Up Active Directory Using Azure VMs](https://github.com/timxtek/configure-ad4)
   - [Network Security Groups (NSGs) And Inspecting Network Protocols](https://github.com/timxtek/azure-network-protocols4)
 - <b>Virtual Private Network Using Proton VPN</b>
-  - [Setting Up VPN In A Virtual Machine ](https://github.com/timxtek/setup-vpn4)
+  - [Setting Up VPN In A Virtual Machine](https://github.com/timxtek/setup-vpn4)
 <h2>👨🏿‍💻Cybersecurity Professional Projects👨🏿‍💻</h2>
 
 - <b>SOC Analyst Journey</b>
-  - [1]
+  - [Configuring A SIEM In MS Azure](https://github.com/timxtek/Configuring-siem4)
   - [2]
   - [3]
   - [4]
