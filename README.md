@@ -13,7 +13,7 @@
   - [Setting Up VPN In A Virtual Machine](https://github.com/timxtek/setup-vpn4)
 <h2>👨🏿‍💻Cybersecurity Professional Projects👨🏿‍💻</h2>
 
-- <b>SOC Analyst Journey</b>
+- <b>SOC Analyst Professional</b>
   - [Configuring A SIEM In MS Azure](https://github.com/timxtek/Configuring-siem4)
   - [SOC]
   - [SOC]
