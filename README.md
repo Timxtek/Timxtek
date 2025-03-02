@@ -14,7 +14,7 @@
 <h2>👨🏿‍💻Cybersecurity Professional Projects👨🏿‍💻</h2>
 
 - <b>SOC Analyst Professional</b>
-  - [Configuring A SIEM In MS Azure](https://github.com/timxtek/Configuring-siem4)
+  - [Configuring A SIEM Honeypot In MS Azure](https://github.com/timxtek/Configuring-siem4)
   - [SOC]
   - [SOC]
   - [SOC]
