@@ -1,5 +1,5 @@
 <h1>Greetings And Welcome!
-  <br>I'm Timothy, An <a href="https://linkedin.com/in/timtech369">IT Professional</a> & Future SOC Analyst🤓.<img src="https://i.imgur.com/QnKUaxU.gif" height="20%" width="100%" alt="Crazy ED"/><br>Ed: Enjoy The Labs!!!@#</br></h1>
+  <br>I'm Timothy, An <a href="https://linkedin.com/in/timtech369">IT Professional</a> & Future SOC Analyst🤓.<img src="https://i.imgur.com/QnKUaxU.gif" height="20%" width="100%" alt="Crazy ED"/><br>Ed: Enjoy The Labs!!!@#.</br></h1>
 </br>
 
 <h2>🖥️Information Technology Projects💻</h2>
