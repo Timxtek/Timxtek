@@ -15,7 +15,7 @@
 
 - <b>SOC Analyst Professional</b>
   - [Configuring A SIEM Honeypot In MS Azure](https://github.com/timxtek/Configuring-siem4)
-  - [SOC]
+  - [Utilizing Splunk To Analyze DNS Records](https://github.com/timxtek/Splunk-siem4)
   - [SOC]
   - [SOC]
   - [SOC]
