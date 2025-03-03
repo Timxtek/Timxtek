@@ -22,6 +22,11 @@
   - [SOC]
   - [SOC]
 
+- <b>Red Hat/Pen-Tester Professional</b>
+  - [RED/PEN]
+  - [RED/PEN]
+  - [RED/PEN]
+  - [RED/PEN]
 <h2>📧Contact Me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
