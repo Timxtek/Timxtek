@@ -13,7 +13,7 @@
   - [Network Security Groups (NSGs) And Inspecting Network Protocols](https://github.com/timxtek/azure-network-protocols4)
 - <b>Virtual Private Network Using Proton VPN</b>
   - [Setting Up VPN In A Virtual Machine](https://github.com/timxtek/setup-vpn4)
-<h2>👨🏿‍💻Cybersecurity Professional Projects👨🏿‍💻</h2>
+<h2>👨🏻‍💻Cybersecurity Professional Projects👨🏻‍💻</h2>
 
 - <b>SOC Analyst Professional</b>
   - [Configuring A SIEM Honeypot In MS Azure](https://github.com/timxtek/Configuring-siem4)
