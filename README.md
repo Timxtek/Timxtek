@@ -1,6 +1,7 @@
 <h1>Greetings and welcome!
-  <br>I'm Timothy, an <a href="https://linkedin.com/in/timtech369">IT Professional</a> & future SOC Analyst🤓<br>-Enjoy the labs</br></h1>
-</br> 
+  <br>I'm Timothy, an <a href="https://linkedin.com/in/timtech369">IT Professional</a> & future SOC Analyst🤓<img src="https://i.imgur.com/QnKUaxU.gif" height="20%" width="80%" alt="Crazy ED"/><br>-Enjoy The Labs!!</br></h1>
+</br>
+
 <h2>🖥️Information Technology Projects💻</h2>
 
 - <b>osTicket: Creating A Ticketing System For Help Desk</b>
