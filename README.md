@@ -24,7 +24,8 @@
   - [Ticket Lifecycle Examples](https://github.com/timxtek/ticket-lifecycle4)
 - <b>Microsoft Azure</b>
   - [Setting Up Active Directory Using Azure VMs](https://github.com/timxtek/configure-ad4)
-  - [Network Security Groups (NSGs) And Inspecting Network Protocols](https://github.com/timxtek/azure-network-protocols4)
+- <b>Wireshark</b>
+  - [Inspecting Network Protocols & Network Security Groups](https://github.com/timxtek/azure-network-protocols4)
 - <b>Virtual Private Network Using Proton VPN</b>
   - [Setting Up VPN In A Virtual Machine](https://github.com/timxtek/setup-vpn4)
 
