@@ -40,6 +40,6 @@
 - <b><a href="https://www.comptia.org/certifications/project">Project+ (PK0-004)</a></b>
 
 ### Other
--  <b><a href="https://tryhackme.com/path/outline/soclevel1">TryHackMe SOC Analyst</a></b>
+-  <b><a href="https://tryhackme.com/path/outline/soclevel2">TryHackMe SOC Analyst</a></b>
 -  <b><a href="https://coursecareers.com/explore/it">Course Careers Information Technology Professional</a></b>
 -  <b><a href="https://www.coursera.org/professional-certificates/google-cybersecurity">Google Cybersecurity Professional</a></b>
