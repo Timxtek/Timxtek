@@ -27,9 +27,18 @@
   - [RED/PEN]
   - [RED/PEN]
   - [RED/PEN]
-<h2>📧Contact Me:</h2>
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+## 📚 Certifications 
 
+### CompTIA
+- <b><a href="https://www.comptia.org/certifications/security">Security+ (SY0-601)</a></b>
+- <b><a href="https://www.comptia.org/certifications/cybersecurity-analyst">CySA+ (CS0-003)</a></b>
+- <b><a href="https://www.comptia.org/certifications/network">Network+ (N10-008)</a></b>
+-  <b><a href="https://www.comptia.org/certifications/pentest">Pentest+ (PT0-002)</a></b>
+- <b><a href="https://www.comptia.org/certifications/a">A+ (220-1101 / 220-1102)</a></b>
+- <b><a href="https://www.comptia.org/certifications/project">Project+ (PK0-004)</a></b>
 
-[linkedin]: https://linkedin.com/in/timtech369
+### Other
+-  <b><a href="https://www.axelos.com/certifications/itil-service-management/itil-4-foundation/">ITILv4 Foundation</a></b>
+-  <b><a href="https://www.coursera.org/professional-certificates/google-it-support">Google IT Support Professional</a></b>
+-  <b><a href="https://www.coursera.org/professional-certificates/google-cybersecurity">Google Cybersecurity Professional</a></b>
