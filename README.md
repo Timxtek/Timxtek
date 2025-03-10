@@ -18,7 +18,7 @@
   - [RED/PEN]
   - [RED/PEN]
 
-- <b>Creating A Ticketing System For Help Desk</b>
+- <b>Help Desk Ticketing System Project</b>
   - [Prerequisites And Installation](https://github.com/timxtek/osticket-prereqs4)
   - [Post-Installation Configuration](https://github.com/timxtek/post-install-config4)
   - [Ticket Lifecycle Examples](https://github.com/timxtek/ticket-lifecycle4)
