@@ -9,15 +9,15 @@
 - <b>Cybersecurity Analyst </b>
   - [Configuring A SIEM Honeypot In MS Azure](https://github.com/timxtek/Configuring-siem4)
   - [Utilizing Splunk To Analyze DNS Records](https://github.com/timxtek/Splunk-siem4)
-  - [SOC]
-  - [SOC]
-  - [SOC]
+    
+    
+    
 
 - <b>Red Hat/Pen-Tester </b>
   - [Nmap Network Home Pentest](https://github.com/timxtek/Nmap-pentest4)
   - [Web Application Penetration Testing](https://github.com/timxtek/Webapp-pentest4)
-  - [RED/PEN]
-  - [RED/PEN]
+    
+    
 
 - <b>Help Desk Ticketing System Project</b>
   - [Prerequisites And Installation](https://github.com/timxtek/osticket-prereqs4)
