@@ -14,7 +14,7 @@
     
 
 - <b>Red Hat/Pen-Tester </b>
-  - [Nmap Network Home Pentest](https://github.com/timxtek/Nmap-pentest4)
+  - [Nmap Network Home PenTest](https://github.com/timxtek/Nmap-pentest4)
   - [Web Application Penetration Testing](https://github.com/timxtek/Webapp-pentest4)
     
     
