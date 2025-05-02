@@ -1,5 +1,5 @@
 <h1>Hello, I'm Timothy!
-  <br><a href="https://linkedin.com/in/timtech369">IT-Cybersecurity Professional</a><img src="https://imgur.com/5YePP7U.gif" height="100%" width="100%" alt="Cybersecurity Binary-Blue"/>
+  <br><a href="https://linkedin.com/in/timtek44">IT-Cybersecurity Professional</a><img src="https://imgur.com/5YePP7U.gif" height="100%" width="100%" alt="Cybersecurity Binary-Blue"/>
 </h1>
 </br>
 
